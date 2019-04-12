@@ -17,6 +17,17 @@
   + Tips
     + Recent finishing of the deep learning architecture
 
++ [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift]
+  + Date:2019-04
+  + Tips
+    + trick of the deep learning
+    + 神经网络的批归一化处理
+
++ [Densely Connected Convolutional Networks]
+  + Date:2019-04
+  + Tips
+    + https://github.com/liuzhuang13/DenseNet
+
 # Computer Vision
 
 # Nature Language Processing
