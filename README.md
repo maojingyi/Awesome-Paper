@@ -21,6 +21,25 @@
 
 # Nature Language Processing
 
+## Machine Reading Comprehension(Question Answering)
+
++ [Advances in Natural Language Question Answering: A Review](http://www.zhuanzhi.ai/paper/d5388801940dbb19fbd431cb1907d5f1)
+  + Date:201904
+  + Tips:
+    + A method summary of Question Answering, including rule-based approach, statistical approach, machine-learning approach, deep learning approach and neural network approach
+    + DMN(Dynamic Memory Networks)
+      + Process input sequences, form episodic memories and produce appropriate answer
+      + Attained sota result of Facebook bAbI dataset
+    + RMN(Reinforced Memory Network)
+      + Combining RL and Memory Network to carry out QA tasks
+    + NTM(Neural Turing Machine)
+      + Read and Write Memory
+    + End2End Memory Networks
+      + Require significantly less supervision during trainin
+    + Stack-Augemented Recurrent Nets- Facebook AI
+    + RLNTM(Reinforce Learning Neural Turing Machines)
+      + use RL approach to learn where to access the discrete interfaces and  use backpropagation algorithm to determine what to write the memory and output
+
 # Reinforce Learning
 
 
