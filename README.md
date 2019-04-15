@@ -1,6 +1,6 @@
 # Awesome-Paper
 
-# Target
+# Operation
 
 + Upload wonderful paper (It is best to upload the annotated paper)
 + Oranganize paper by algorithm type
@@ -8,7 +8,7 @@
 + Use the publication time of the paper to make a prefix
   + 'A State-of-the-Art Survey on Deep Learning Theory and Architecture’ to ‘1903-A State-of-the-Art Survey on Deep Learning Theory and Architecture'
 
-# Machine Learning
+# Computer Vision
 
 # Deep Learning
 
@@ -16,8 +16,33 @@
   + Date:2019-03
   + Tips
     + Recent finishing of the deep learning architecture
++ [Attention is all need](<https://arxiv.org/abs/1706.03762>)
+  + Date:2017-06
+  + Tips
+    + without cnn/rnn, just self-attention
+    + Transformer is from this paper
++ Pointer Networks
+  + Date:2017-01
+  + Tips
+    + Results selection for Seq2Seq model
 
-# Computer Vision
+# Ensemble Learning
+
++ [XGBoost：A Scalable Tree Boosting System](<http://delivery.acm.org/10.1145/2940000/2939785/p785-chen.pdf?ip=45.64.52.117&id=2939785&acc=CHORUS&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555327130_d76028aa1c20b4f10b08032fd8bbe331>)
+  + Date:2016-03
+  + Tips
+    + To be added
+
+# Knowledge Base
+
+- [An overview of embedding models of entities and relationships
+  for knowledge base completion](<http://www.zhuanzhi.ai/paper/184720be568dc36df04d189e5d7ca758>)
+  - Date : 2019-04
+  - Tips
+    - A brief overview of embedding models of entities and relationships for knowledge base completion
+    - Introduce many score function for triples plausibility 
+
+# Machine Learning
 
 # Nature Language Processing
 
@@ -43,12 +68,3 @@
 # Reinforce Learning
 
 
-
-# Knowledge Base
-
-+ [An overview of embedding models of entities and relationships
-  for knowledge base completion](<http://www.zhuanzhi.ai/paper/184720be568dc36df04d189e5d7ca758>)
-  + Date : 2019-04
-  + Tips
-    +  A brief overview of embedding models of entities and relationships for knowledge base completion
-    + Introduce many score function for triples plausibility 
