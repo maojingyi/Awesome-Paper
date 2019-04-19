@@ -25,6 +25,12 @@
   + Date:2017-01
   + Tips
     + Results selection for Seq2Seq model
++ Drop an Octave : Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution
+  + Date:2019-04
+  + Organization : Facebook
+  + Tips
+    + factorize the mixed feature maps by their frequencies
+    + design a novel Octave Convolution (OctConv) operation to store and process feature maps that vary spatially “slower” at a lower spatial resolution reducing both memory and computation cost
 
 # Ensemble Learning
 
